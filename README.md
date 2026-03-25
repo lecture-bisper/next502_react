@@ -7,3 +7,9 @@
 	1. React : 개발 환경 설정 (NVM, Node.js, vite 설치)
 	2. React : React 프로젝트 생성하기 (npx 로 생성, npm 으로 생성, intellij로 생성)
 	3. React : React 프로젝트의 폴더 구조 및 파일 설명, React 가 어떻게 index.html 파일에 UI 화면을 출력하는지 설명
+2. 2일차
+	1. ES6 : 템플릿 문자열
+	2. ES6 : 변수 선언 키워드(var, let, const), object 와 array 를 const 로 선언 시 데이터 변경
+	3. ES6 : 객체 확장 표현식, 구조 분해 할당, 전개 연산자
+	4. ES6 : 배열 함수 forEach()
+	
