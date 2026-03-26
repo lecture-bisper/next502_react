@@ -12,4 +12,10 @@
 	2. ES6 : 변수 선언 키워드(var, let, const), object 와 array 를 const 로 선언 시 데이터 변경
 	3. ES6 : 객체 확장 표현식, 구조 분해 할당, 전개 연산자
 	4. ES6 : 배열 함수 forEach()
+3. 3일차
+	1. ES6 : 배열 함수 map()
+	2. ES6 : 자바스크립트의 클래스 및 클래스 상속
+	3. ES6 : import / export 로 모듈 사용하기
+	4. ES6 : 화살표 함수
+	5. ES6 : Promise
 	
