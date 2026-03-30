@@ -25,4 +25,10 @@
 	4. React : Props, 자식 컴포넌트로 데이터 전달하기
 	5. React : 함수 컴포넌트, 클래스 컴포넌트
 	6. React : 컴포넌트 합성, 컴포넌트 추출
+5. 5일차
+	1. React : State 란, 클래스 컴포넌트의 State, 함수 컴포넌트의 State
+	2. React : props 와 state 의 차이
+	3. React : 컴포넌트의 생명주기
+	4. React : 이벤트 설정 방법
+	
 	
