@@ -30,5 +30,13 @@
 	2. React : props 와 state 의 차이
 	3. React : 컴포넌트의 생명주기
 	4. React : 이벤트 설정 방법
-	
+6. 6일차
+	1. React : Hook이란, Hook 없는 함수 컴포넌트와 클래스 컴포넌트
+	2. React : useState()
+	3. React : useEffect(), 클래스 컴포넌트의 생명주기함수, useEffect() 를 생명주기 함수로 사용
+	4. React : useState(), useEffect() 로 볼륨 컨트롤러 만들기
+	5. React : useMemo(), useCallback()
+	6. React : useRef()
+	7. React : 커스텀 훅
+
 	
