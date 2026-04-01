@@ -38,5 +38,15 @@
 	5. React : useMemo(), useCallback()
 	6. React : useRef()
 	7. React : 커스텀 훅
-
+7. 7일차
+	1. React : 이벤트 사용하기
+	2. React : 조건부 렌더링
+	3. React : 엘리먼트 변수와 조건부 렌더링
+	4. React : inline if, 단축 단축 평가, 삼항연산자와 조건부 렌더링
+	5. React : 렌더링 막기
+	6. React : list와 key
+	7. React : form 태그 사용 (input, textarea)
+	7. React : form 태그 사용 (select, checkbox)
+	
+	
 	
