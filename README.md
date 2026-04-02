@@ -47,6 +47,12 @@
 	6. React : list와 key
 	7. React : form 태그 사용 (input, textarea)
 	7. React : form 태그 사용 (select, checkbox)
+8. 8일차
+	1. React : state와 form 을 이용한 회원 가입 페이지
+	2. React : 상태 공유하기
+	3. React : 상태 끌어올리기
+	4. React : 상태 끌어올리기로 회원 가입 페이지
+	5. React : UI 클론코딩
 	
 	
 	
