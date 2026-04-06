@@ -59,6 +59,13 @@
 	3. React : Containment, Specialization 함께 사용하기
 	4. React : Axios 사용하기
 	5. React : Axios 로 Rest API 서버 접속
+10. 10일차
+	1. React : React Route 설치 및 기본 사용법 (BrowserRouter, Routes, Route, Link, Outlet)
+	2. React : Link 로 페이지 이동, Outlet 으로 자식 페이지 포함하기
+	3. React : 하위 주소 설정, 절대 경로로 하위 주소 설정, 상대 경로로 하위 주소 설정
+	4. React : 페이지 이동 시 파라미터 전달(쿼리 파라미터 방식, rest 방식), * 사용
+	5. React : React Route 를 사용하여 게시판 만들기(Front 영역)
+	
 
 	
 	

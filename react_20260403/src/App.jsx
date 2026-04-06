@@ -34,24 +34,31 @@ function App() {
       <br />
 
       <h3>Containment, Specialization 함께 사용하기</h3>
-      <SignUpDialog/>
+      <SignUpDialog />
 
-      <br/><br/>
+      <br />
+      <br />
 
       <ProfileCard />
 
-      <br/><hr/><br/>
+      <br />
+      <hr />
+      <br />
 
       <h3>axios 비동기 통신</h3>
 
       <AxiosTest />
 
-      <br/><hr/><br/>
+      <br />
+      <hr />
+      <br />
 
       <h3>일일 박스오피스</h3>
       <AxiosDailyBoxOffice />
 
-      <br/><hr/><br/>
+      <br />
+      <hr />
+      <br />
 
       <h3>Axios 로 RestApi 서버 접속하기</h3>
       <AxiosRestApiConnect />
@@ -76,4 +83,4 @@ function App() {
   );
 }
 
-export default App
+export default App;
